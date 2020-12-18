@@ -5,3 +5,4 @@
 - strogonoff de frango
 - pavê de chocolate
 - pavê de caramelo
+- pavê de morango
