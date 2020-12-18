@@ -4,3 +4,4 @@
 
 - strogonoff de frango
 - pavê de chocolate
+- pavê de caramelo
